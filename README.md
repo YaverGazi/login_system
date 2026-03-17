@@ -10,6 +10,6 @@ Login checks the entered data against stored records
 
 This project is for learning purposes.
 
-Passwords are stored as plain text (not secure).
+Passwords are stored as plain text.
 
-In real-world applications, passwords should be hashed.
+
